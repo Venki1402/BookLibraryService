@@ -4,6 +4,12 @@ A full stack app for library service.
 ### **Overview :**
 This full-stack application provides a comprehensive solution for managing library services.
 
+### Live Demo
+
+
+https://github.com/user-attachments/assets/849b877f-b7c9-4cc4-9e49-bbc6886d2127
+
+> Google drive : [click here](https://drive.google.com/file/d/1vHXkSwmwzurqfyQ-s1ijbNOGjNwxbutl/view?usp=sharing)
 
 > **Tech Stack as follows:**
 
