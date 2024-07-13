@@ -7,7 +7,11 @@ This full-stack application provides a comprehensive solution for managing libra
 ### Live Demo
 
 
-https://github.com/user-attachments/assets/849b877f-b7c9-4cc4-9e49-bbc6886d2127
+
+
+https://github.com/user-attachments/assets/1a397931-f573-48fe-8df4-2e45b97a7c94
+
+
 
 > Google drive : [click here](https://drive.google.com/file/d/1vHXkSwmwzurqfyQ-s1ijbNOGjNwxbutl/view?usp=sharing)
 
