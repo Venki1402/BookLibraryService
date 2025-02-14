@@ -1,8 +1,11 @@
-# BookLibraryService
+# Book Library Service
 A full stack app for library service.
 
 ### **Overview :**
 This full-stack application provides a comprehensive solution for managing library services.
+
+### Problem Statement
+Currently, librarians are maintaining registers to handle book records, making it tedious to monitor loan approvals, return dates, and other related activities. The lack of a digital system leads to inefficiencies in tracking due dates, managing book availability, and calculating fines. This application aims to streamline library operations by providing a digital solution for book and loan management.
 
 ### Live Demo
 
@@ -64,4 +67,4 @@ Access the frontend application in your web browser (typically at http://localho
 
 > Contact
 
-For any questions or feedback, please reach out to Venkatesh at venki.academic@gmail.com.
+For any questions or feedback, please reach out to Venkatesh at saivenkatesh.alampally@gmail.com
